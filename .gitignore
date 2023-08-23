@@ -1,0 +1,13 @@
+*.jpg
+*.png
+*.jpeg
+*.mp3
+*.mp4
+*.wav
+*.midi
+*.data-00000-of-00001
+*.mat
+*.txt
+*.csv
+*.npy
+*.data
