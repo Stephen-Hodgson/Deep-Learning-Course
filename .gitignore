@@ -4,9 +4,8 @@
 *.mp4
 *.wav
 *.midi
+*d.txt
 *.data-00000-of-00001
 *.mat
-*.txt
-*.csv
 *.npy
 *.data
